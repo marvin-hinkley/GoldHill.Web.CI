@@ -1,0 +1,2 @@
+strapi_endpoint: 'http://localhost:1337/graphql'
+gatsby_path: 'C:\dev\gold-hill-gatsby\GoldHill.Web'

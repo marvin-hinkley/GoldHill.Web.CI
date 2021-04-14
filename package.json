@@ -1,0 +1,9 @@
+{
+  "name": "GoldHill.Web.CI",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "js-yaml": "^4.0.0",
+    "node-powershell": "^4.0.0"
+  }
+}
